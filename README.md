@@ -23,10 +23,19 @@ Discord
 | ![stackView03](https://github.com/hayabusabusa/DiscordGallery/blob/master/Gallery/stackView03.gif) |
 
 
-## WeatherApp  
+## Other  
+### WeatherApp
 OpenWeatherMapのAPIを利用して現在の天気を取得するアプリです。  
-ライブラリ未使用、MVC、MVVMの3つのデザインパターンでそれぞれ作りました。  
+ライブラリ未使用、MVC、MVVMの3つのパターンでそれぞれ作りました。  
 
 | MVVM |  
 | ---- |  
-| ![weatherApp](https://github.com/hayabusabusa/DiscordGallery/blob/master/Gallery/weatherApp01.gif) |
+| ![weatherApp](https://github.com/hayabusabusa/DiscordGallery/blob/master/Gallery/weatherApp01.gif) |  
+
+### SYAudioIndicatorView  
+かなり前に作ったiOSのミュージックアプリのインジケーターっぽい動きをするViewです。  
+作ったものの、あまり使い所はないかもしれません...  
+
+| [SYAudioIndicatorView](https://github.com/hayabusabusa/SYAudioIndicatorView) |
+| -------------------- |
+| ![SYAudioIndicatorView](https://github.com/hayabusabusa/DiscordGallery/blob/master/Gallery/SYAudioIndicatorView.gif) |
