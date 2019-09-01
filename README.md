@@ -32,10 +32,9 @@ OpenWeatherMapのAPIを利用して現在の天気を取得するアプリです
 | ---- |  
 | ![weatherApp](https://github.com/hayabusabusa/DiscordGallery/blob/master/Gallery/weatherApp01.gif) |  
 
-### SYAudioIndicatorView  
-かなり前に作ったiOSのミュージックアプリのインジケーターっぽい動きをするViewです。  
-作ったものの、あまり使い所はないかもしれません...  
+### CALayer、アニメーションで作ったもの
+たまにCALayerとかアニメーションを駆使してこういうのを作ったりしています。  
 
-| [SYAudioIndicatorView](https://github.com/hayabusabusa/SYAudioIndicatorView) |
-| -------------------- |
-| ![SYAudioIndicatorView](https://github.com/hayabusabusa/DiscordGallery/blob/master/Gallery/SYAudioIndicatorView.gif) |
+| [SYAudioIndicatorView](https://github.com/hayabusabusa/SYAudioIndicatorView) | シンプルなHUD | 適当に作ったHUD |
+| ---------------------------------------------------------------------------- | ----------- | ------------- |
+| ![SYAudioIndicatorView](https://github.com/hayabusabusa/DiscordGallery/blob/master/Gallery/SYAudioIndicatorView.gif) | ![SimpleHUD](https://github.com/hayabusabusa/DiscordGallery/blob/master/Gallery/SimpleHUD.gif) | ![OriginalHUD](https://github.com/hayabusabusa/DiscordGallery/blob/master/Gallery/OriginalHUD.gif) |
