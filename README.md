@@ -19,9 +19,14 @@ Discord
 | ![stackView01](https://github.com/hayabusabusa/DiscordGallery/blob/master/Gallery/stackView01.gif) | ![stackView04](https://github.com/hayabusabusa/DiscordGallery/blob/master/Gallery/stackView04.gif) |  
 
 | ScrollViewと一緒に使う( Advanced ) |  
-| -------------------------------- |  
+| ------------------------------- |  
 | ![stackView03](https://github.com/hayabusabusa/DiscordGallery/blob/master/Gallery/stackView03.gif) |
 
+## RxSwift  
+
+| 非同期処理について |  
+| -------------- |  
+| ![async](https://github.com/hayabusabusa/DiscordGallery/blob/master/Gallery/rxSwift_async.gif) |
 
 ## Other  
 ### WeatherApp
