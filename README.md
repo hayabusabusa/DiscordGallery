@@ -6,6 +6,11 @@ Discord
 | ----------------- | ----------------- |  
 | ![tabBar01](https://github.com/hayabusabusa/DiscordGallery/blob/master/Gallery/tabBar01.gif) | ![tabBar02](https://github.com/hayabusabusa/DiscordGallery/blob/master/Gallery/tabBar02.gif) |  
 
+## Popup
+
+| Popup |
+| ----- |
+| ![popup](https://github.com/hayabusabusa/DiscordGallery/blob/master/Gallery/popup.gif) |
 
 ## TableView  
 | EmptyState |  
